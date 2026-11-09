@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome F*
 
 Start with a refinement type and follow its proof obligation through the checker. F* and F# have distinct toolchains.
